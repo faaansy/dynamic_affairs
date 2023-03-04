@@ -411,7 +411,7 @@ def define_sex_events_fm(es: EventMap):
                partner_removes_clothes=True,
                animation_left=IDLE, animation_right=PERSONALITY_CONTENT,
                desc=f"""
-               With a malevolent smirk at {THEM}, you eye the sizable bulge in their clothing.  
+               With a malevolent smirk at {THEM}, you eye the sizable bulge in their clothing.
                Pulling a length of your clothing off, you whip it against his covered erection and he stumbles, gasping in pain and pleasure.
                \\n\\n
                Tracing your fingers against his trouser and over his belt, you pull his staff free. It hangs in the brisk air.""",
@@ -433,8 +433,8 @@ def define_sex_events_fm(es: EventMap):
                partner_removes_clothes=True,
                animation_left=IDLE, animation_right=PERSONALITY_CONTENT,
                desc=f"""
-               With a heady rush you notice {THEM} has a sizable erection in their clothing.  
-               Sliding closer to him, you viciously knee him in the groin. He stumbles and lands on his back, gasping in pain.  
+               With a heady rush you notice {THEM} has a sizable erection in their clothing.
+               Sliding closer to him, you viciously knee him in the groin. He stumbles and lands on his back, gasping in pain.
                \\n\\n
                You daintily remove your shoes, and whisper your commands to him.
                Tracing your feet against his trouser, you pull his staff free. It presses against your feet, ticking them in the brisk air.
@@ -476,8 +476,8 @@ def define_sex_events_fm(es: EventMap):
                partner_removes_clothes=True,
                animation_left=IDLE, animation_right=PERSONALITY_CONTENT,
                desc=f"""
-               With a knowing smirk at {THEM}, you put your hands on their chest. 
-               Leveraging your weight, you pin him against a wall and slide a knee up his leg. His face reddens as you press against his bulge. 
+               With a knowing smirk at {THEM}, you put your hands on their chest.
+               Leveraging your weight, you pin him against a wall and slide a knee up his leg. His face reddens as you press against his bulge.
                \\n\\n
                Tracing your fingers against thin fabric, you work your way to his trouser and pull his staff free. It twitches at sensations of the brisk air and your warm hands.""",
                options=(
@@ -511,7 +511,7 @@ def define_sex_events_fm(es: EventMap):
                           "Continue teasing him with your thighs",
                           transition_text=f"""
                               You continue to rub his rod in between your things and pussy. You can feel a sticky coolness
-                              from {THEM}'s tip, slicking between your legs. The contrast with the rhythmic thrusts from his 
+                              from {THEM}'s tip, slicking between your legs. The contrast with the rhythmic thrusts from his
                               hot member makes this an interesting experience.""",
                           failed_transition_text="You have better uses for that hard cock than just teasing it."),
                    Option(EventsSex.FM_HANDJOB, OptionCategory.DOM,
@@ -542,7 +542,7 @@ def define_sex_events_fm(es: EventMap):
                    Looking into {THEM}'s leering eyes, you know you hold the lead for now.
                    Closing in, you lean close to his ear and promise, "This will be a day you'll remember."
                    \\n\\n
-                   Simultaneously, you kneel before him and open your dress, revealing your breats. You bend down and loosen his trousers. His member springs out. Enjoying the moment, you slid his dick against your chest and between your tits. 
+                   Simultaneously, you kneel before him and open your dress, revealing your breats. You bend down and loosen his trousers. His member springs out. Enjoying the moment, you slid his dick against your chest and between your tits.
                    He sucks in a delighted breath as your tits rub against cock as his hands play across your body.
                    """,
                options=(
@@ -585,7 +585,7 @@ def define_sex_events_fm(es: EventMap):
                    Option(EventsCum.FM_RUINED_ORGASM, OptionCategory.DOM,
                           "Deny his release",
                           transition_text=f"""
-                              You abruptly stop your jerking motion and slap his cock, 
+                              You abruptly stop your jerking motion and slap his cock,
                               disrupting the build up to his climax.""",
                           failed_transition_text=f"""
                               You move to stop his climax, but realize that he did not last as long as you expected."""),
@@ -622,8 +622,8 @@ def define_sex_events_fm(es: EventMap):
                               your palms, and the bobbing of your head with the strokes from your hands.
                               """,
                           failed_transition_text=f"""
-                              The potent musk of his member, inflated by the proximity of your 
-                              nose to his groin, strangely captivates you and you lose this opportunity to assert more 
+                              The potent musk of his member, inflated by the proximity of your
+                              nose to his groin, strangely captivates you and you lose this opportunity to assert more
                               dominance."""),
                    Option(EventsSex.FM_BLOWJOB_DOM, OptionCategory.DOM,
                           "Continue milking his cock with your lips and tongue",
@@ -715,7 +715,7 @@ def define_sex_events_fm(es: EventMap):
                    Option(EventsSex.FM_BLOWJOB_DOM, OptionCategory.DOM,
                           "Take back control and be the active one giving the blowjob",
                           transition_text=f"""
-                              Putting both hands on his waist, you curb his thrusts. 
+                              Putting both hands on his waist, you curb his thrusts.
                               {THEM} moves his arms as if to protest, but your licks along his shaft
                               resolve any nascent objections.""",
                           failed_transition_text=f"""
@@ -768,7 +768,7 @@ def define_sex_events_fm(es: EventMap):
                    Option(EventsSex.FM_BLOWJOB_SUB, OptionCategory.DOM,
                           "Take some control back",
                           transition_text=f"""
-                              Putting both hands on his waist, you reduce his thrusts to a manageable pace and depth. 
+                              Putting both hands on his waist, you reduce his thrusts to a manageable pace and depth.
                               """,
                           failed_transition_text=f"""
                               Putting both hands on his waist, you push and try to stop his thrusts.
@@ -777,7 +777,7 @@ def define_sex_events_fm(es: EventMap):
                    Option(EventsSex.FM_DEEPTHROAT, OptionCategory.SUB,
                           "Continue deepthroating",
                           transition_text=f"""
-                              He continues fucking your throat while 
+                              He continues fucking your throat while
                               your vision blurs against a mixture of tears, saliva, and sex juices."""),
                    Option(EventsCum.FM_BLOWJOB_CUM_IN_MOUTH_SUB, OptionCategory.SUB,
                           "He cums in your mouth",
@@ -806,7 +806,7 @@ def define_sex_events_fm(es: EventMap):
                           "Continue teasing him with your ass",
                           transition_text=f"""
                               You continue to rub his rod in between your buns. You can feel a sticky coolness
-                              from {THEM}'s tip, slicking up your back. The contrast with the rhythmic thrusts from his 
+                              from {THEM}'s tip, slicking up your back. The contrast with the rhythmic thrusts from his
                               hot member makes this an interesting experience.""",
                           failed_transition_text="You have better uses for that hard cock than just teasing it."),
                    Option(EventsSex.FM_HANDJOB, OptionCategory.DOM,
@@ -839,7 +839,7 @@ def define_sex_events_fm(es: EventMap):
                root_become_more_dom_chance=5,
                root_removes_clothes=True, partner_removes_clothes=True,
                desc=f"""
-                   Despite not being able to see him standing behind you, 
+                   Despite not being able to see him standing behind you,
                    you feel a sense of control as you rub his cock and control his pleasure with your ass.
                    """,
                options=(
@@ -847,7 +847,7 @@ def define_sex_events_fm(es: EventMap):
                           "Continue teasing him with your ass",
                           transition_text=f"""
                               You continue to rub his rod in between your buns. You can feel a sticky coolness
-                              from {THEM}'s tip, slicking up your back. The contrast with the rhythmic thrusts from his 
+                              from {THEM}'s tip, slicking up your back. The contrast with the rhythmic thrusts from his
                               hot member makes this an interesting experience.""",
                           failed_transition_text="You have better uses for that hard cock than just teasing it"),
                    Option(EventsSex.FM_HANDJOB, OptionCategory.DOM,
@@ -898,7 +898,7 @@ def define_sex_events_fm(es: EventMap):
                               You enjoy the sensation of controlling his pleasure with just your butt, without having
                               to resort to any penetration.""",
                           failed_transition_text=f"""
-                              Your thoughts are occupied by his vigorous thrusts, and you can't help but wonder what it 
+                              Your thoughts are occupied by his vigorous thrusts, and you can't help but wonder what it
                               would feel like to him thrust inside you."""),
                    Option(EventsSex.FM_REVERSE_COWGIRL, OptionCategory.DOM,
                           "Get on top and ride him facing away",
@@ -996,7 +996,7 @@ def define_sex_events_fm(es: EventMap):
                root_removes_clothes=True, partner_removes_clothes=True,
                animation_left=BOW_3, animation_right=SCHADENFREUDE,
                desc=ComposedDesc(f"""
-                   Sometimes bending you over and sometimes #sub pulling your hair to keep you upright#!, 
+                   Sometimes bending you over and sometimes #sub pulling your hair to keep you upright#!,
                    you're at the mercy of {THEM}. His vigorous thrusts make you knees weak and you find it
                    hard to stay on your feet.
                    \\n\\n""",
@@ -1035,8 +1035,8 @@ def define_sex_events_fm(es: EventMap):
                    Option(EventsSex.FM_PRONE_BONE, OptionCategory.SUB,
                           "Submit to getting plowed facing down",
                           transition_text=f"""
-                              Your legs weaken as you fall to the floor, {THEM} immediately following you down as he 
-                              takes advantage of the opportunity to #sub dominate#! you. You try to prepare yourself for 
+                              Your legs weaken as you fall to the floor, {THEM} immediately following you down as he
+                              takes advantage of the opportunity to #sub dominate#! you. You try to prepare yourself for
                               the #bold intense#! pounding that you're about to recieve.
                               """),
                    Option(EventsCum.FM_PULL_OUT_CUM_ON_ASS, OptionCategory.DOM,
@@ -1060,7 +1060,7 @@ def define_sex_events_fm(es: EventMap):
                    """, TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", f"""
                    Your senses focus on the hard meat in you, using it with precision to scratch itches no man could ever even #dom hope#! to understand.
                    """), TriggeredDesc(f"{HAS_TRAIT} = {LIDA_SUB}", f"""
-                   As your senses focus on his hard meat, you can't help but imagine how amazing it would feel to have this rod #sub pounding you!# mercilessly.  
+                   As your senses focus on his hard meat, you can't help but imagine how amazing it would feel to have this rod #sub pounding you!# mercilessly.
                    """),
                                  ),
                options=(
@@ -1114,7 +1114,7 @@ def define_sex_events_fm(es: EventMap):
                    """, TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", f"""
                    He is a tool, his "manhood" nothing more than a meat toy whose #dom only#! purpose is to satisfy your needs. He is a #bold good#! tool.
                    """), TriggeredDesc(f"{HAS_TRAIT} = {LIDA_SUB}", f"""
-                   Despite how good this feels you can't help but wish #sub he#! pleasured you instead.  
+                   Despite how good this feels you can't help but wish #sub he#! pleasured you instead.
                    """),
                                  ),
                options=(
@@ -1265,42 +1265,40 @@ def define_sex_events_mf(es: EventMap):
     es.add(Sex(EventsSex.MF_WHIP_TEASE, "Whip Tease",
                stam_cost_1=1, stam_cost_2=0,
                root_gender=MALE, partner_gender=FEMALE,
-               root_become_more_sub_chance=5,
+               root_become_more_dom_chance=5,
                root_removes_clothes=True,
-               animation_left=PERSONALITY_CONTENT, animation_right=IDLE,
+               animation_left=PERSONALITY_CONTENT, animation_right=WORRY,
                desc=f"""
                With a devious smirk, you remove your belt and run it against the skin of {THEM}.
-               Leveraging your weight, you push and trap her against a wall. You teasingly whip your belt against their cloathed ass
-               as your free hand wanders across her body. 
+               Leveraging your strength, you flip her around and push her against a wall. Her hands firmly planted, you teasingly whip your belt against her clothed ass
+               as your free hand grabs her hair.
                \\n\\n
-               Tracing your fingers against your thin fabric, you pull your trousers down and 
-               free your member. It twitches at the brisk air.
+               You pull your trousers down and free your member. It twitches at the brisk air.
                """,
                options=(
                    Option(EventsSex.MF_HANDJOB, OptionCategory.DOM,
-                          "Jerk her off",
-                          transition_text="Your continue building a rhythm, whipping her and fingering her.",
-                          failed_transition_text="You're too turned on to be satisfied with just jerking her off."),
+                          ""Jerk me off, whore"",
+                          transition_text="After a few lashes, her skin is red and her face flushed. You tell her to get on her knees and take your manhood in her hands.",
+                          failed_transition_text="You're too turned on by the sound of the belt smacking her flesh. You prepare to give her a few more lashes."),
                    Option(EventsSex.MF_BLOWJOB_DOM, OptionCategory.SUB,
                           "Kneel down and suck upon her pussy.",
                           transition_text=f"""
-                          Looking up, you spot a look of anticipation on {THEM}'s face. 
+                          Looking up, you spot a look of anticipation on {THEM}'s face.
                           They were probably not expecting you to volunteer your mouth's service.
                           She moves a hand behind your head, but you swat it away."""),
                )))
     es.add(Sex(EventsSex.MF_FOOTJOB_TEASE, "Footjob Tease",
                stam_cost_1=1, stam_cost_2=0,
                root_gender=MALE, partner_gender=FEMALE,
-               root_become_more_sub_chance=5,
+               root_become_more_dom_chance=5,
                root_removes_clothes=True,
                animation_left=PERSONALITY_CONTENT, animation_right=IDLE,
                desc=f"""
-               With a lascivious smirk, you remove your shoes and run your hands against the skin of {THEM}.
-               Leveraging your weight, you push and trap her against a wall. You teasingly trace your bare feet against thier legs
-               as your free hand wanders across her body. 
+               With a lascivious smirk, you tear open her shirt, exposing her breasts. Her chest heaves in fear and arousal. {THEM}.
+               Leveraging your weight, you push her down. You teasingly trace your bare feet against thier legs
+               as your free hand wanders across her body.
                \\n\\n
-               Tracing your fingers against thin fabric, you pull your trousers down 
-               free your member. It twitches at the brisk air.
+               You pull your trousers down and free your member. It twitches at the brisk air.
                """,
                options=(
                    Option(EventsSex.MF_HANDJOB, OptionCategory.DOM,
@@ -1310,20 +1308,20 @@ def define_sex_events_mf(es: EventMap):
                    Option(EventsSex.MF_BLOWJOB_DOM, OptionCategory.SUB,
                           "Kneel down and suck upon her pussy.",
                           transition_text=f"""
-                          Looking up, you spot a look of anticipation on {THEM}'s face. 
+                          Looking up, you spot a look of anticipation on {THEM}'s face.
                           They were probably not expecting you to volunteer your mouth's service.
                           She moves a hand behind your head, but you swat it away."""),
                )))
     es.add(Sex(EventsSex.MF_HANDJOB_TEASE, "Handjob Tease",
                stam_cost_1=1, stam_cost_2=0,
                root_gender=MALE, partner_gender=FEMALE,
-               root_become_more_sub_chance=5,
+               root_become_more_dom_chance=5,
                root_removes_clothes=True,
                animation_left=PERSONALITY_CONTENT, animation_right=IDLE,
                desc=f"""
                With a knowing smirk, you size {THEM} up and put both your hands on their chest.
-               Leveraging your weight, you push and trap him against a wall. You slide your knee up his leg 
-               and play with his bulge. 
+               Leveraging your weight, you push and trap him against a wall. You slide your knee up his leg
+               and play with his bulge.
                \\n\\n
                Tracing your fingers against thin fabric, you work your way to her dress and pull it from her body.
                Her skin twitches at the brisk air and the sharp contrast against of your warm hands.
@@ -1336,47 +1334,47 @@ def define_sex_events_mf(es: EventMap):
                    Option(EventsSex.MF_BLOWJOB_DOM, OptionCategory.SUB,
                           "Kneel down and suck upon her pussy.",
                           transition_text=f"""
-                          Looking up, you spot a look of anticipation on {THEM}'s face. 
+                          Looking up, you spot a look of anticipation on {THEM}'s face.
                           They were probably not expecting you to volunteer your mouth's service.
                           She moves a hand behind your head, but you swat it away."""),
                )))
     es.add(Sex(EventsSex.MF_DICK_TEASE, "Dick Tease",
                stam_cost_1=1, stam_cost_2=0,
                root_gender=MALE, partner_gender=FEMALE,
-               root_become_more_sub_chance=5,
+               root_become_more_dom_chance=5,
                root_removes_clothes=True,
                animation_left=PERSONALITY_CONTENT, animation_right=IDLE,
                desc=f"""
                With a lusty smirk, you size {THEM} up and put both your hands on their chest, playing with their brests.
-               Leveraging your weight, you push and trap her against a wall. Kissing her neck, you feel her pulse quicken. 
+               Leveraging your weight, you push and trap her against a wall. Kissing her neck, you feel her pulse quicken.
                \\n\\n
-               Tracing your fingers against thin fabric, you work your cock free and rub it against her pussy.
+               Tracing your fingers against the thin fabric of her panties, you feel how wet she is. You work your cock free and rub it against her pussy.
                She moans in desire as your warm hands and engorged dick fill her with desire.""",
                options=(
                    Option(EventsSex.MF_HANDJOB, OptionCategory.DOM,
-                          "Jerk her off",
-                          transition_text="Your continue building a rhythm, teasing her and fingering her.",
-                          failed_transition_text="You're too turned on to be satisfied with just jerking her off."),
+                          "Tease her with your cock",
+                          transition_text="Your continue building a rhythm, teasing her with your hard manhood.",
+                          failed_transition_text="You're too turned on to be satisfied with just her wet lips."),
                    Option(EventsSex.MF_BLOWJOB_DOM, OptionCategory.SUB,
                           "Kneel down and suck upon her pussy.",
                           transition_text=f"""
-                          Looking up, you spot a look of anticipation on {THEM}'s face. 
+                          Looking up, you spot a look of anticipation on {THEM}'s face.
                           They were probably not expecting you to volunteer your mouth's service.
                           She moves a hand behind your head, but you swat it away."""),
                )))
     es.add(Sex(EventsSex.MF_HANDJOB, "Handjob",
                stam_cost_1=-1, stam_cost_2=0.5,
                root_gender=MALE, partner_gender=FEMALE,
-               root_become_more_sub_chance=5,
+               root_become_more_dom_chance=5,
                root_removes_clothes=True,
                desc=f"""
-                   {THEM}'s eyes are closed and you smirk at your total control of his pleasure.
-                   You experiment with your strokes, and delight at the immediate feedback on his face.""",
+                   {THEM}'s eyes are closed and you smirk at your total control of her body.
+                   You experiment with your strokes, and delight at the immediate feedback from her tongue and throat.""",
                options=(
                    Option(EventsSex.MF_HANDJOB, OptionCategory.DOM,
                           "Continue jerking him off",
                           transition_text=f"""
-                              Under the interminable strokes from your hand, {THEM}'s cock has 
+                              Under the interminable strokes from your hand, {THEM}'s cock has
                               fully hardened. Dew-like pre dribbles from the tip, lubricating the whole shaft.""",
                           failed_transition_text=
                           ComposedDesc(
@@ -1393,7 +1391,7 @@ def define_sex_events_mf(es: EventMap):
                    Option(EventsCum.MF_RUINED_ORGASM, OptionCategory.DOM,
                           "Deny his release",
                           transition_text=f"""
-                              You abruptly stop your jerking motion and slap his cock, 
+                              You abruptly stop your jerking motion and slap his cock,
                               disrupting the build up to his climax.""",
                           failed_transition_text=f"""
                               You move to stop his climax, but realize that he did not last as long as you expected."""),
@@ -1430,8 +1428,8 @@ def define_sex_events_mf(es: EventMap):
                               your palms, and the bobbing of your head with the strokes from your hands.
                               """,
                           failed_transition_text=f"""
-                              The potent musk of his member, inflated by the proximity of your 
-                              nose to his groin, strangely captivates you and you lose this opportunity to assert more 
+                              The potent musk of his member, inflated by the proximity of your
+                              nose to his groin, strangely captivates you and you lose this opportunity to assert more
                               dominance."""),
                    Option(EventsSex.MF_BLOWJOB_DOM, OptionCategory.DOM,
                           "Continue milking his cock with your lips and tongue",
@@ -1489,7 +1487,7 @@ def define_sex_events_mf(es: EventMap):
                    Option(EventsSex.MF_BLOWJOB_DOM, OptionCategory.DOM,
                           "Take back control and be the active one giving the blowjob",
                           transition_text=f"""
-                              Putting both hands on his waist, you curb his thrusts. 
+                              Putting both hands on his waist, you curb his thrusts.
                               {THEM} moves his arms as if to protest, but your licks along his shaft
                               resolve any nascent objections.""",
                           failed_transition_text=f"""
@@ -1542,7 +1540,7 @@ def define_sex_events_mf(es: EventMap):
                    Option(EventsSex.MF_BLOWJOB_SUB, OptionCategory.DOM,
                           "Take some control back",
                           transition_text=f"""
-                              Putting both hands on his waist, you reduce his thrusts to a manageable pace and depth. 
+                              Putting both hands on his waist, you reduce his thrusts to a manageable pace and depth.
                               """,
                           failed_transition_text=f"""
                               Putting both hands on his waist, you push and try to stop his thrusts.
@@ -1551,7 +1549,7 @@ def define_sex_events_mf(es: EventMap):
                    Option(EventsSex.MF_DEEPTHROAT, OptionCategory.SUB,
                           "Continue deepthroating",
                           transition_text=f"""
-                              He continues fucking your throat while 
+                              He continues fucking your throat while
                               your vision blurs against a mixture of tears, saliva, and sex juices."""),
                    Option(EventsCum.MF_BLOWJOB_CUM_IN_MOUTH_SUB, OptionCategory.SUB,
                           "He cums in your mouth",
@@ -1563,7 +1561,7 @@ def define_sex_events_mf(es: EventMap):
     es.add(Sex(EventsSex.MF_ASS_TEASE, "Ass Tease",
                stam_cost_1=0.75, stam_cost_2=0.5,
                root_gender=MALE, partner_gender=FEMALE,
-               root_become_more_sub_chance=5,
+               root_become_more_dom_chance=5,
                root_removes_clothes=True, partner_removes_clothes=True,
                desc=f"""
                    Looking into {THEM}'s leering eyes, you can see his desire to have you.
@@ -1580,7 +1578,7 @@ def define_sex_events_mf(es: EventMap):
                           "Continue teasing him with your ass",
                           transition_text=f"""
                               You continue to rub his rod in between your buns. You can feel a sticky coolness
-                              from {THEM}'s tip, slicking up your back. The contrast with the rhythmic thrusts from his 
+                              from {THEM}'s tip, slicking up your back. The contrast with the rhythmic thrusts from his
                               hot member makes this an interesting experience.""",
                           failed_transition_text="You have better uses for that hard cock than just teasing it."),
                    Option(EventsSex.MF_HANDJOB, OptionCategory.DOM,
@@ -1613,7 +1611,7 @@ def define_sex_events_mf(es: EventMap):
                root_become_more_dom_chance=5,
                root_removes_clothes=True, partner_removes_clothes=True,
                desc=f"""
-                   Despite not being able to see him standing behind you, 
+                   Despite not being able to see him standing behind you,
                    you feel a sense of control as you rub his cock and control his pleasure with your ass.
                    """,
                options=(
@@ -1621,7 +1619,7 @@ def define_sex_events_mf(es: EventMap):
                           "Continue teasing him with your ass",
                           transition_text=f"""
                               You continue to rub his rod in between your buns. You can feel a sticky coolness
-                              from {THEM}'s tip, slicking up your back. The contrast with the rhythmic thrusts from his 
+                              from {THEM}'s tip, slicking up your back. The contrast with the rhythmic thrusts from his
                               hot member makes this an interesting experience.""",
                           failed_transition_text="You have better uses for that hard cock than just teasing it"),
                    Option(EventsSex.MF_HANDJOB, OptionCategory.DOM,
@@ -1672,7 +1670,7 @@ def define_sex_events_mf(es: EventMap):
                               You enjoy the sensation of controlling his pleasure with just your butt, without having
                               to resort to any penetration.""",
                           failed_transition_text=f"""
-                              Your thoughts are occupied by his vigorous thrusts, and you can't help but wonder what it 
+                              Your thoughts are occupied by his vigorous thrusts, and you can't help but wonder what it
                               would feel like to him thrust inside you."""),
                    Option(EventsSex.MF_REVERSE_COWGIRL, OptionCategory.DOM,
                           "Get on top and ride him facing away",
@@ -1770,7 +1768,7 @@ def define_sex_events_mf(es: EventMap):
                root_removes_clothes=True, partner_removes_clothes=True,
                animation_left=SCHADENFREUDE, animation_right=BOW_3,
                desc=ComposedDesc(f"""
-                   Sometimes bending you over and sometimes #sub pulling your hair to keep you upright#!, 
+                   Sometimes bending you over and sometimes #sub pulling your hair to keep you upright#!,
                    you're at the mercy of {THEM}. His vigorous thrusts make you knees weak and you find it
                    hard to stay on your feet.
                    \\n\\n""",
@@ -1809,8 +1807,8 @@ def define_sex_events_mf(es: EventMap):
                    Option(EventsSex.MF_PRONE_BONE, OptionCategory.SUB,
                           "Submit to getting plowed facing down",
                           transition_text=f"""
-                              Your legs weaken as you fall to the floor, {THEM} immediately following you down as he 
-                              takes advantage of the opportunity to #sub dominate#! you. You try to prepare yourself for 
+                              Your legs weaken as you fall to the floor, {THEM} immediately following you down as he
+                              takes advantage of the opportunity to #sub dominate#! you. You try to prepare yourself for
                               the #bold intense#! pounding that you're about to recieve.
                               """),
                    Option(EventsCum.MF_PULL_OUT_CUM_ON_ASS, OptionCategory.DOM,
@@ -1827,14 +1825,14 @@ def define_sex_events_mf(es: EventMap):
     es.add(Sex(EventsSex.MF_REVERSE_COWGIRL, "Ride Facing Away",
                stam_cost_1=1.5, stam_cost_2=3,
                root_gender=MALE, partner_gender=FEMALE,
-               root_become_more_sub_chance=15,
+               root_become_more_dom_chance=15,
                root_removes_clothes=True, partner_removes_clothes=True,
                desc=ComposedDesc(f"""
                    You close your eyes as your hips hungrily dance around {THEM}'s shaft, #bold shaking#! with pleasure.
                    """, TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", f"""
                    Your senses focus on the hard meat in you, using it with precision to scratch itches no man could ever even #dom hope#! to understand.
                    """), TriggeredDesc(f"{HAS_TRAIT} = {LIDA_SUB}", f"""
-                   As your senses focus on his hard meat, you can't help but imagine how amazing it would feel to have this rod #sub pounding you!# mercilessly.  
+                   As your senses focus on his hard meat, you can't help but imagine how amazing it would feel to have this rod #sub pounding you!# mercilessly.
                    """),
                                  ),
                options=(
@@ -1881,14 +1879,14 @@ def define_sex_events_mf(es: EventMap):
     es.add(Sex(EventsSex.MF_COWGIRL, "Ride Facing Them",
                stam_cost_1=1.0, stam_cost_2=2.0,
                root_gender=MALE, partner_gender=FEMALE,
-               root_become_more_sub_chance=10,
+               root_become_more_dom_chance=10,
                root_removes_clothes=True, partner_removes_clothes=True,
                desc=ComposedDesc(f"""
                    You look in {THEM}'s eyes as you vigorously ride, his member under your complete control as you focus exclusively on satisfying yourself. \\n
                    """, TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", f"""
                    He is a tool, his "manhood" nothing more than a meat toy whose #dom only#! purpose is to satisfy your needs. He is a #bold good#! tool.
                    """), TriggeredDesc(f"{HAS_TRAIT} = {LIDA_SUB}", f"""
-                   Despite how good this feels you can't help but wish #sub he#! was on top of you instead.  
+                   Despite how good this feels you can't help but wish #sub he#! was on top of you instead.
                    """),
                                  ),
                options=(
@@ -2045,7 +2043,7 @@ def define_cum_events_fm(es: EventMap):
                \\n\\n""",
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} >= 10", """
                "That's it?" you say as you wipe his seed onto his chest, "How do you hope to please any
-               woman with that pathetic stamina?" His #dom dejected look 
+               woman with that pathetic stamina?" His #dom dejected look
                pleases#! you #italic - maybe your personality is twisted?#!
                """),
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} > -10 \n{SCOPE}:{SUBDOM} < 10", f"""
@@ -2076,7 +2074,7 @@ def define_cum_events_fm(es: EventMap):
                    \\n\\n"This was fun", {THEM} says enthusiastically while #italic clearly#! staring at your shapes yearningly.
                    """),
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} <= -10", f"""
-                   \\n\\n"Let's do more next time", {THEM} says as you feel a sudden #sub smack on your ass#!. 
+                   \\n\\n"Let's do more next time", {THEM} says as you feel a sudden #sub smack on your ass#!.
                    """),
                                  TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", """
                     \\n\\nYou #dom chuckle#! at his reaction, asking yourself if you're ever going to face a #S real#! challenge in the sheets ."""),
@@ -2091,7 +2089,7 @@ def define_cum_events_fm(es: EventMap):
                terminal_option=Option(None, OptionCategory.OTHER, "Sample some stray globs of cum"),
                desc=ComposedDesc(f"""
                    You look up and brace yourself for what's to come. When the first drop hits your face,
-                   you flinch and instinctively close your eyes and feel a glob hot semen 
+                   you flinch and instinctively close your eyes and feel a glob hot semen
                    land on your eyelids.
                    \\n\\n""",
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} >= 10", f"""
@@ -2119,7 +2117,7 @@ def define_cum_events_fm(es: EventMap):
                    {THEM} arches his back and holds your head in place with his hands.
                    You move to free your head, but with his release imminent, he has no intention to listen to orders.
                    Soon, you feel {THEM}'s cock twitch in your mouth followed by a salty deluge.
-                   
+
                    His #sub seed is thick#!, and combined with its salty taste makes it quite conventionally unpalatable.
                    """
                ))
@@ -2131,7 +2129,7 @@ def define_cum_events_fm(es: EventMap):
                desc=ComposedDesc(f"""
                    {THEM} holds your head in place while his last thrust goes deeper than before.
                    His dick twitches and shoots out his seed in a steady stream which fills up your mouth
-                   as he makes no move to remove his member. 
+                   as he makes no move to remove his member.
                    \\n\\n""",
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} >= 10", f"""
                    "Swallow it," he says in a commanding tone. \\n\\n
@@ -2150,7 +2148,7 @@ def define_cum_events_fm(es: EventMap):
                    The intensity of his thrust, the force with which he just kept you there... How #sub arousing!#!
                    """, ),
                                  TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", f"""
-                   Seems like {THEM} needs to be #dom put#! in his place, overzealous ruffian that he is. 
+                   Seems like {THEM} needs to be #dom put#! in his place, overzealous ruffian that he is.
                    """, ),
                                  )
                ))
@@ -2197,7 +2195,7 @@ def define_cum_events_fm(es: EventMap):
                    TriggeredDesc(f"{HAS_TRAIT} = {LIDA_SUB}", """
                     \\n\\n"Come again sometime, will you? I'd like it if you did #sub more#! to me", you say with a smile """),
                    TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", f"""
-                    \\n\\n"Good boy", you whisper in {THEM}'s ear while #dom patting#! him on the head. 
+                    \\n\\n"Good boy", you whisper in {THEM}'s ear while #dom patting#! him on the head.
                     "I #S might#! just invite you over again if I ever need something", you say with a smirk.""")
                ),
                ))
@@ -2209,7 +2207,7 @@ def define_cum_events_fm(es: EventMap):
                animation_left=DISMISSAL, animation_right=PERSONALITY_BOLD,
                terminal_option=Option(None, OptionCategory.OTHER, "Clean up the white coating on your groin"),
                desc=ComposedDesc(f"""
-                   {THEM} stops himself mere inches from your groin, coating your hips and holes with a thick layer of white. 
+                   {THEM} stops himself mere inches from your groin, coating your hips and holes with a thick layer of white.
                    \\n\\n
                    Your can feel his warmth #sub on#! you.""",
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} >= 10", f"""
@@ -2219,7 +2217,7 @@ def define_cum_events_fm(es: EventMap):
                    \\n\\n"This was fun", {THEM} says as he runs his hand across your shapes before dressing.
                    """),
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} <= -10", f"""
-                   \\n\\n"Let's do more next time", {THEM} says as you feel a sudden #sub smack on your ass#!. 
+                   \\n\\n"Let's do more next time", {THEM} says as you feel a sudden #sub smack on your ass#!.
                    """),
 
                                  TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", """
@@ -2266,7 +2264,7 @@ def define_cum_events_fm(es: EventMap):
                terminal_option=Option(None, OptionCategory.OTHER, "Wipe the silky threads hanging from your slit"),
                desc=ComposedDesc(f"""
                    {THEM} grunts when your slit fully swallows his rod, his muscles locking up as surges of soft warmth coat your insides.
-                   \\n\\n 
+                   \\n\\n
                    """,
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} < -10", f"""
                    "When did you get so #dom rough #!?!", he says with a #italic shocked #! expression on his face while still pinned below you,
@@ -2329,14 +2327,14 @@ def define_cum_events_fm(es: EventMap):
                    """),
                    TriggeredDesc(f"{SCOPE}:{SUBDOM} <= -10 \n{HAS_TRAIT} = {LIDA_SUB}", f"""
                    \\n\\n"Come again sometime", you say with a #italic #sub smile#!#!. He #sub smacks#! your ass with a grin,
-                    running two fingers along your slit before starting to dress.  
+                    running two fingers along your slit before starting to dress.
                    """),
                    TriggeredDesc(f"{SCOPE}:{SUBDOM} <= -10 \n{NOT} = {{ {HAS_TRAIT} ={LIDA_SUB} }}", f"""
                    \\n"Did I say you could #italic do that#!, {THEM}?!". He looks at you with a smug grin, #italic smacking#! your ass before dressing.
                    """),
 
                    TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", """
-                   \\n\\nAs if getting fucked like a cheap whore wasn't enough, he even #warning seeded#! you like you're just some servant girl at a feast! 
+                   \\n\\nAs if getting fucked like a cheap whore wasn't enough, he even #warning seeded#! you like you're just some servant girl at a feast!
                    """, ),
                    TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM} \n {NOT} = {{ {HAS_TRAIT} ={PREGNANT} }}", f"""
                    To enjoy the warmth of your womb is an #italic unrivaled privilege#!,
@@ -2420,7 +2418,7 @@ def define_cum_events_mf(es: EventMap):
                     #italic Perhaps it is, you were #bold so close#! to what you wanted but didn't get it.#!"""),
 
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} >= 10", f"""
-                    \\n\\n"Let's do more next time", you say as you #sub smack her ass#!, surprising her.                  
+                    \\n\\n"Let's do more next time", you say as you #sub smack her ass#!, surprising her.
                    """),
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} > -10 \n{SCOPE}:{SUBDOM} < 10", f"""
                     \\n\\n"Let's meet again sometime, {THEM}" you say while slightly biting your lip.
@@ -2510,7 +2508,7 @@ def define_cum_events_mf(es: EventMap):
                terminal_option=Option(None, OptionCategory.OTHER, "Enjoy the warmth a moment more"),
                desc=ComposedDesc(f"""
                    You hold {THEM}'s head in place while mounting one last thrust even deeper than before.
-                   The wet warmth makes you even harder as you begin shooting out seed in a steady stream which fills up her mouth. 
+                   The wet warmth makes you even harder as you begin shooting out seed in a steady stream which fills up her mouth.
                    \\n\\n""",
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} >= 10", f"""
                    "Swallow it," you say in a commanding tone. \\n\\n
@@ -2538,11 +2536,11 @@ def define_cum_events_mf(es: EventMap):
                animation_left=BEG, animation_right=DISMISSAL,
                terminal_option=Option(None, OptionCategory.OTHER, "Leave yearning and frustrated"),
                desc=ComposedDesc(f"""
-                   You arche your back as you're clearly about to to climax, but are interrupt by {THEM} firmly grabbing and holding your
+                   You arch your back as you're clearly about to to climax, but are interrupt by {THEM} firmly grabbing and holding your
                    shaft close to your body. Even if you wanted to, #S and you do#!, you cannot physically cannot release your seed.
                    "Did I say you could cum?" {THEM} cruelly intones as she grasps your balls with your other hand.
                    \\n\\n
-                   
+
                    \\n\\n""",
                                  TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", f"""
                    How #dom dare#! she deny you satisfaction. You will not forget this offense.
@@ -2571,7 +2569,7 @@ def define_cum_events_mf(es: EventMap):
                    """),
                    TriggeredDesc(f"{SCOPE}:{SUBDOM} > -10 \n{SCOPE}:{SUBDOM} < 10", f"""
                    Perhaps fearing the consequences of impregnating {THEM} or just showing some courtesy, you pull out just as you reache your limit.
-                   You instead shoots your seed on her ass and holes, several quiet splashes announcing the end of the session. 
+                   You instead shoots your seed on her ass and holes, several quiet splashes announcing the end of the session.
                     \\n\\n
                    "What happens next?", she says while #italic clearly#! staring at your body with a lustful gaze.
                    """),
@@ -2581,7 +2579,7 @@ def define_cum_events_mf(es: EventMap):
                    With a sudden #sub smack on her ass#!, "Let's meet again soon."
                    """),
                    TriggeredDesc(f"{HAS_TRAIT} = {LIDA_SUB}", f"""
-                    \\n\\n"Good boy", {THEM} whispers in your ear while #dom patting#! you on the head. 
+                    \\n\\n"Good boy", {THEM} whispers in your ear while #dom patting#! you on the head.
                     "I #S might#! just invite you over again if I ever need something", she says with a smirk.
                     """),
                    TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", f"""
@@ -2596,7 +2594,7 @@ def define_cum_events_mf(es: EventMap):
                animation_left=DISMISSAL, animation_right=PERSONALITY_BOLD,
                terminal_option=Option(None, OptionCategory.OTHER, "Watch her clean herself"),
                desc=ComposedDesc(f"""
-                   You stops yourself mere inches from {THEM}'s groin before you release, coating her hips and holes with a thick layer of white. 
+                   You stops yourself mere inches from {THEM}'s groin before you release, coating her hips and holes with a thick layer of white.
                    \\n\\n
                    Your can feel his warmth #sub on#! you.""",
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} <= -10", f"""
@@ -2606,7 +2604,7 @@ def define_cum_events_mf(es: EventMap):
                    \\n\\n"This was fun", you says as you run your hand across {THEM} shapes before dressing.
                    """),
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} <= -10", f"""
-                   \\n\\n"Let's do more next time", you says as you #S hungrily#! #dom smack her on the ass#!. 
+                   \\n\\n"Let's do more next time", you says as you #S hungrily#! #dom smack her on the ass#!.
                    """),
 
                                  TriggeredDesc(f"{HAS_TRAIT} = {LIDA_DOM}", """
@@ -2638,8 +2636,8 @@ def define_cum_events_mf(es: EventMap):
                    """),
 
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} >= 10", f"""
-                    "Y-you can do it again if you want", {THEM} says. Judging by the look on her face she #bold wants#!#! you to do it #dom again#!. \\n                 
-                   
+                    "Y-you can do it again if you want", {THEM} says. Judging by the look on her face she #bold wants#!#! you to do it #dom again#!. \\n
+
                    """),
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} > -10 \n{SCOPE}:{SUBDOM} < 10", f"""
                    "What are you doing?!" {THEM} says, shocked at your brazen behaviour. This may not have been #italic quite#! what she was expecting...
@@ -2660,7 +2658,7 @@ def define_cum_events_mf(es: EventMap):
                terminal_option=Option(None, OptionCategory.OTHER, "Wipe the silky threads hanging from your slit"),
                desc=ComposedDesc(f"""
                    You grunt when {THEM}'s slit fully swallows your rod as your muscles lock up with each surge of warmth you unload in her.
-                   \\n\\n 
+                   \\n\\n
                    """,
                                  TriggeredDesc(f"{SCOPE}:{SUBDOM} >= 10", f"""
                    "When did you get so #dom rough #!?!", you say with a #italic shocked #! expression while still pinned below her,
@@ -2741,13 +2739,13 @@ def define_first_events(es: EventMap):
     es.add(First(EventsFirst.FM_MEETING_WITH_SPOUSE_INITIAL, "Flowers in Bloom",
                  source_sex_events=source_sex_events, background="garden",
                  desc=f"""
-                 As it is beautiful day, you have a stroll in your garden. 
+                 As it is beautiful day, you have a stroll in your garden.
                  In your bed chambers, you left a note to invite {THEM} outside.
                  \\n\\n
                  Upon spotting you, he rushes forward, "What is it you wanted to see me
                  about?" Curious, and a little bit panicked with the cryptic content of your message.
                  \\n\\n
-                 Instead of answering, you beam him your brightest smile, 
+                 Instead of answering, you beam him your brightest smile,
                  "Let's make love here," pointing to a shaded awning free from prying eyes.
                  \\n\\n
                  Your strategy to put him on his toes and then deliver such a direct line works
@@ -2763,7 +2761,7 @@ def define_first_events(es: EventMap):
     es.add(First(EventsFirst.FM_MEETING_WITH_VASSAL_INITIAL, "Privileges of Power",
                  source_sex_events=source_sex_events, background="study",
                  desc=f"""
-                 You summon {THEM} to your study, giving instructions to your 
+                 You summon {THEM} to your study, giving instructions to your
                  guards to let him in then leave afterwards. The guards' faces betray their guesses,
                  but you pay them to be discrete thus they make no comments.
                  \\n\\n
@@ -2771,7 +2769,7 @@ def define_first_events(es: EventMap):
                  \\n\\n
                  "Yes, I want to consult with you on this passage here", you say as you reach for one of the books
                  on your bookshelf, making sure that as you do so, one of the straps on your dress would come loose
-                 and present your feminine assets. Blushing, they turn away, but you pretend as if you didn't notice 
+                 and present your feminine assets. Blushing, they turn away, but you pretend as if you didn't notice
                  and instead walk up to him and say in a coy tone, "Could you help me with this?"
                  """))
     es.add(First(EventsFirst.FM_MEETING_WITH_LIEGE, "Mead in my Room?",
@@ -2794,7 +2792,7 @@ def define_first_events(es: EventMap):
                  you need?" he asks amicably.
                  \\n\\n
                  Instead of answering, you twirl your hair and put an arm under your bosom, making
-                 an effort to highlight it. You saunter closer to him and see an inviting amusement in 
+                 an effort to highlight it. You saunter closer to him and see an inviting amusement in
                  his eyes, "You, my Lord."
                  """))
     es.add(First(EventsFirst.FM_MEETING_WITH_PRISONER, "Taste of Heaven in Hell",
@@ -2831,7 +2829,7 @@ def define_first_events(es: EventMap):
                  source_sex_events=source_sex_events, background="sitting_room",
                  desc=f"""
                  Communicating via your servants, you inform {THEM} that you'd like to get to know them better
-                 in your sitting room. Wise to your intentions, he wastes no time arriving, noting the lack of 
+                 in your sitting room. Wise to your intentions, he wastes no time arriving, noting the lack of
                  servants and guards to confirm his guess.
                  \\n\\n
                  You lock eyes, and without exchanging any words do all the communication with your bodies."""))
@@ -2860,56 +2858,55 @@ def define_first_events(es: EventMap):
                  making it an even more inviting den of intimacy. As before, you left
                  a cryptic message inviting {THEM}.
                  \\n\\n
-                 He arrives promptly, clearly excited with your spontaneous trysts, and only
-                 gives a brief greeting before climbing into bed with you."""))
+                 she arrives promptly, clearly excited with your spontaneous trysts, and is careful to avoid eye contact as she climbs into bed with you."""))
     es.add(First(EventsFirst.MF_MEETING_WITH_SPOUSE_INITIAL, "Flowers in Bloom",
                  source_sex_events=source_sex_events, background="garden",
                  root_gender=MALE, partner_gender=FEMALE,
                  desc=f"""
-                 As it is beautiful day, you have a stroll in your garden. 
+                 As it is beautiful day, you have a stroll in your garden.
                  In your bed chambers, you left a note to invite {THEM} outside.
                  \\n\\n
-                 Upon spotting you, he rushes forward, "What is it you wanted to see me
-                 about?" Curious, and a little bit panicked with the cryptic content of your message.
+                 Upon spotting you, she rushes forward, "What is it my liege?"
+                 She is clearly both scared and aroused about what you will demand.
                  \\n\\n
-                 Instead of answering, you beam him your brightest smile, 
-                 "Let's make love here," pointing to a shaded awning free from prying eyes.
+                 Instead of answering, you beam her your brightest smile,
+                 "I am going to fuck you here," pointing to a shaded awning free from prying eyes.
                  \\n\\n
-                 Your strategy to put him on his toes and then deliver such a direct line works
-                 and he stands there, flustered at your proposal but not rejecting it.
+                 Your strategy to put her on her toes and then deliver such a direct line works
+                 and she stands there, flustered at your proposal but not rejecting it.
                  """))
     es.add(First(EventsFirst.MF_MEETING_WITH_VASSAL, "Chains of Command",
                  source_sex_events=source_sex_events, background="study",
                  root_gender=MALE, partner_gender=FEMALE,
                  desc=f"""
                  You send a summons to {THEM} about helping you with interpreting some passages in your study.
-                 By now, that's tacitly understood as an invitation to a tryst, which he gladly accepts.
-                 Almost immediately, he shows up in your study.
+                 By now, that's tacitly understood as an invitation to a tryst, but which she would be foolish to take for anything but a demand.
+                 Almost immediately, she shows up in your study.
                  """))
     es.add(First(EventsFirst.MF_MEETING_WITH_VASSAL_INITIAL, "Privileges of Power",
                  source_sex_events=source_sex_events, background="study",
                  root_gender=MALE, partner_gender=FEMALE,
                  desc=f"""
-                 You summon {THEM} to your study, giving instructions to your 
-                 guards to let him in then leave afterwards. The guards' faces betray their guesses,
+                 You summon {THEM} to your study, giving instructions to your
+                 guards to let her in then leave afterwards. The guards' faces betray their guesses,
                  but you pay them to be discrete thus they make no comments.
                  \\n\\n
-                 Entering the study, "You summoned me, my Lady?"
+                 Entering the study, "You summoned me, my liege?"
                  \\n\\n
-                 "Yes, I want to consult with you on this passage here", you say as you reach for one of the books
-                 on your bookshelf, making sure that as you do so, one of the straps on your dress would come loose
-                 and present your feminine assets. Blushing, they turn away, but you pretend as if you didn't notice 
-                 and instead walk up to him and say in a coy tone, "Could you help me with this?"
+                 "Yes, I want to consult with you on this passage here", you say, referring to the book on the table in front of you.
+                 You stand, allowing her to lea over the book to review it. She furrows her brow, trying to interpret the text.
+                 You step back to admire her feminine assets. Leaned over like that, she presents a delectable package.
+                 You approach her form behind, gather her hair in one hand, and grab her dress with the other...
                  """))
     es.add(First(EventsFirst.MF_MEETING_WITH_LIEGE, "Mead in my Room?",
                  source_sex_events=source_sex_events, background="bedchamber",
                  root_gender=MALE, partner_gender=FEMALE,
                  desc=f"""
                  It's another long council meeting, and {THEM}'s councillors start streaming out of the
-                 room. You, however, remain in the room and say, "My Lord, I have some more council
+                 room. You, however, remain in the room and say, "My Lady, I have some more council
                  business to discuss with you."
                  \\n\\n
-                 Nodding, he responds, "Very good, I appreciate your enthusiasm and hard work."
+                 Nodding, she responds, "Very good, I appreciate your enthusiasm and hard work."
                  Taking a pause, "But it's getting late, so let us retire to my bedchambers where
                  we can discuss it in more comfort."
                  """))
@@ -2920,11 +2917,11 @@ def define_first_events(es: EventMap):
                  desc=f"""
                  After the council meeting, {THEM} dismisses you all. However, you take your time
                  leaving and soon you two are the only ones left in the chamber. "Is there something
-                 you need?" he asks amicably.
+                 you need?" she asks amicably.
                  \\n\\n
-                 Instead of answering, you twirl your hair and put an arm under your bosom, making
-                 an effort to highlight it. You saunter closer to him and see an inviting amusement in 
-                 his eyes, "You, my Lord."
+                 Instead of answering, you look her up and down hungrily, making clear what you want.
+                 Her eyes flutter, and she blushes brightly. You saunter closer to her and see nervous invitation in
+                 hre eyes, "You, my Lady...my nubile little whore."
                  """))
     es.add(First(EventsFirst.MF_MEETING_WITH_PRISONER, "Taste of Heaven in Hell",
                  source_sex_events=source_sex_events, background="dungeon",
@@ -2963,8 +2960,8 @@ def define_first_events(es: EventMap):
                  root_gender=MALE, partner_gender=FEMALE,
                  desc=f"""
                  Communicating via your servants, you inform {THEM} that you'd like to get to know them better
-                 in your sitting room. Wise to your intentions, he wastes no time arriving, noting the lack of 
-                 servants and guards to confirm his guess.
+                 in your sitting room. Wise to your intentions, she wastes no time arriving, noting the lack of
+                 servants and guards to confirm her guess.
                  \\n\\n
                  You lock eyes, and without exchanging any words do all the communication with your bodies."""))
     es.add(First(EventsFirst.MF_MEETING_WITH_ACQUAINTANCE_INITIAL, "A Chance Encounter",
@@ -2975,7 +2972,7 @@ def define_first_events(es: EventMap):
                  to clear out the guards and any other personage near that location. A knowing gleam appears in their
                  eyes, but they are paid for their discretion and so bow and leave without any comment.
                  \\n\\n
-                 You find him in the expected location, and feigning like you were strolling as well, you don't
+                 You find her in the expected location, and feigning like you were strolling as well, you don't
                  go towards him.
                  \\n\\n
                  "Well met, {ME_FULL_REGNAL}!" He greets you enthusiastically.
